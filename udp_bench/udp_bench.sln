@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "udp_server", "udp_bench.vcxproj", "{FD9E3823-B6B5-4D22-956B-A8CDE0C8821D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "udp_client", "udp_client.vcxproj", "{0015162F-2D89-4329-90D3-9EF68EE281B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD9E3823-B6B5-4D22-956B-A8CDE0C8821D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD9E3823-B6B5-4D22-956B-A8CDE0C8821D}.Debug|Win32.Build.0 = Debug|Win32
+		{FD9E3823-B6B5-4D22-956B-A8CDE0C8821D}.Release|Win32.ActiveCfg = Release|Win32
+		{FD9E3823-B6B5-4D22-956B-A8CDE0C8821D}.Release|Win32.Build.0 = Release|Win32
+		{0015162F-2D89-4329-90D3-9EF68EE281B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0015162F-2D89-4329-90D3-9EF68EE281B2}.Debug|Win32.Build.0 = Debug|Win32
+		{0015162F-2D89-4329-90D3-9EF68EE281B2}.Release|Win32.ActiveCfg = Release|Win32
+		{0015162F-2D89-4329-90D3-9EF68EE281B2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
